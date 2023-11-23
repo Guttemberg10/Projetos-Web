@@ -1,0 +1,14 @@
+* {padding: 0; margin: 0; box-sizing: border-box; font-family: 'Russo One', sans-serif;}
+body {background-image: url("imagens/floresta2.jpg"); background-repeat: no-repeat; background-size: cover; background-color: blueviolet; padding-top: 100px; }
+
+.linha {width: 30%; height: 10px; background-color: transparent; margin: auto;}
+.bloco {width: 27%; height: 500px; padding: 30px 70px 30px 70px; background-color: #fff; text-align: center; justify-content: center; margin: auto; overflow: hidden;}
+
+.campo_txt {font-size: 0.95em; padding: 3px; width: 100%; outline: none; height: 50px;  border: 0; border-bottom: 2px solid;}
+.entrar {width: 100%; border-radius: 5px; height: 50px; font-size: 1em; background-color:#4e2716 ; color: #fff; border: none; padding: 10px; margin: 14px 0 14px 0;}
+.entrar:hover {cursor: pointer; background-color: #31170C; transition: 0.2s;}
+.bloco label {font-size: 0.9em;}
+.bloco label:hover {cursor: pointer; transition: 0.2s;}
+.bloco p {font-size: 0.9em;}
+.bloco form input[type="checkbox"]:hover {cursor: pointer;}
+.icons {width: 25px; height: auto; margin: 7px;}
