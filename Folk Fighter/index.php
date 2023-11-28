@@ -1,3 +1,8 @@
+<!--
+    Gabriel Novais, Helena Maia, Rennan Furtado
+    09/11/2023
+    Site sobre um jogo de luta baseado em lendas do folclore
+-->
 <?php
     session_start();
 ?>
